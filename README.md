@@ -38,7 +38,6 @@
 <p align=center>
     <a href="https://github.com/FernandoPiDi">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoPiDi&show_icons=true&theme=dark&locale=en&layout=compact" alt="FernandoPiDi" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoPiDi&show_icons=true&theme=dark&locale=en" alt="FernandoPiDi" />
     </p>
 </p>
 
