@@ -4,7 +4,13 @@
 
 <h1 align="center"><b>Hi, I'm Fernando Pinto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=FernandoPiDi&label=Profile%20views&color=0047AB&style=plastic" alt="FernandoPiDi" height="25" width="150"></p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<table>
+  <tr>
+    <td><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></td>
+    <td><h2><b>About me</b></h2></td>
+  </tr>
+</table>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 
